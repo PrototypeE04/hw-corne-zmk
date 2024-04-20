@@ -6,7 +6,6 @@ url: https://github.com/PrototypeE04/hw-corne-zmk
 requires: [pro_micro]
 features:
   - keys
-  - wireless
 siblings:
-  - HW_Corne_left
-  - HW_Corne_right
+  - HW-Corne_left
+  - HW-Corne_right
