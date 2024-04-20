@@ -19,6 +19,6 @@
 ---
 include:
   - board: nice_nano
-    shield: HW_Corne_left
+    shield: HW-Corne_left
   - board: nice_nano
-    shield: HW_Corne_right
+    shield: HW-Corne_right
