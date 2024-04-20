@@ -1,0 +1,12 @@
+file_format: "1"
+id: HW-Corne
+name: HW-Corne
+type: shield
+url: https://github.com/PrototypeE04/hw-corne-zmk
+requires: [pro_micro]
+features:
+  - keys
+  - wireless
+siblings:
+  - HW_Corne_left
+  - HW_Corne_right
