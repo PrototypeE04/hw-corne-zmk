@@ -22,3 +22,5 @@ include:
     shield: HW-Corne_left
   - board: nice_nano
     shield: HW-Corne_right
+  - board: nice_nano
+    shield: settings_reset
