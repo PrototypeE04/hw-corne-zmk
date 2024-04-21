@@ -1,5 +1,5 @@
 config SHIELD_HW-CORNE_LEFT
-    def_bool $(shields_list_contains,HW_Corne_left)
+    def_bool $(shields_list_contains,HW-Corne_left)
 
 config SHIELD_HW-CORNE_RIGHT
-    def_bool $(shields_list_contains,HW_Corne_right)
+    def_bool $(shields_list_contains,HW-Corne_right)
