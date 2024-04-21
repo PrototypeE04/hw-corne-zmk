@@ -49,7 +49,7 @@
    &trans    &kp N1       &kp N2       &kp N3       &kp N4       &kp N5         &kp N6   &kp N7   &kp N8 &kp N9    &kp N0 &kp DEL
    &trans &none  &kp UP &none &none &none      &none &none &none &none &none &none
    &trans  &kp LEFT   &kp DOWN       &kp RIGHT       &none       &none         &none   &none   &none &none   &none &kp RSHFT
-                                    &trans    &trans       &trans     &trans  &mo 3   &trans
+                                    &trans    &trans       &trans     &trans  &trans   &mo 3n
                         >;
                 };
 
@@ -73,7 +73,7 @@
 // | SHFT |     |     |     |     |     |   | BT1 | BT2 | BT3 | BT4 |     | BTCLR|
 //                    |     |     |     |   |     |     |     |
                         bindings = <
-   &trans    &kp F1       &kp F2       &kp F3       &kp F4       &kp F5         &kp F6   &kp F7   &kp F8 &kp F9    &kp F10 &out OUT_BLE
+   &trans    &kp F1       &kp F2       &kp F3       &kp F4       &kp F5         &kp F6   &kp F7   &kp F8 &kp F9    &kp F10 &out OUT_TOG
    &trans &kp F11 &kp F12 &kp F13 &kp F14 &kp F15  &none &none &none &none &none &none
    &trans  &none  &none  &none   &none   &none     &bt BT_SEL 1   &bt BT_SEL 2   &bt BT_SEL 3 &bt BT_SEL 4  &none &bt BT_CLR
                                     &none    &trans       &trans     &trans  &trans   &none
